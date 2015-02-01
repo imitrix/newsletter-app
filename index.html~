@@ -27,7 +27,7 @@
         <div data-role="page" id="page" data-theme="d">
             <!-- header Starts -->
             <div data-role="header" data-theme="f" class="header">
-                <h1><a href="index.html" rel="external">HORIBA</a></h1>
+                <h1><a href="index.html" rel="external">SMARTY</a></h1>
                 <a href="#left-panel" data-shadow="false" ><i class="fa fa-indent fa-2x"></i></a>
                 <a href="#right-panel" data-shadow="false" ><i class="fa fa-bars fa-2x"></i></a>
             </div>
@@ -49,7 +49,7 @@
                 </div>
                 <!-- Welcome Text Starts -->
                 <div class="welcome-text">
-                    <h1><span class="normal">WELCOME TO </span>HORIBA</h1>
+                    <h1><span class="normal">WELCOME TO </span>SMARTY</h1>
                     <p>Pellentesque habitant morbi tristique senectus et netus et malesuaa fames ac turpis egestas. <a href="contact-us.html" rel="external">Vestibulum</a> tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. </p>
                 </div>
                 <!-- Welcome Text Ends -->
